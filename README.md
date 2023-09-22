@@ -14,9 +14,9 @@
 
 <br>
 
-- A Passionate Self-taught Full-stack Web developer.
+- A Passionate Full-stack Web developer.
 - I am  computer science student, Assiut university.
-- Currently, I'm Learning Front-End Development.
+- Currently, I'm Learning Back-End Development.
 
 <br>
 
