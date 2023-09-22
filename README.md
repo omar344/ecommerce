@@ -26,7 +26,7 @@
 
 
 ##### 💪 Programming Languages
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+
 
 
 ##### 💪 Front-End Development
@@ -36,20 +36,6 @@
 
 
 ##### 💪 Back-End Development
-<a href="#"><img src="https://img.shields.io/badge/django-274e13?style=for-the-badge&logo=django&logoColor=White" alt="Django"></a>
-<a href="#"><img src="https://img.shields.io/badge/flask-ffffff?style=for-the-badge&logo=flask&logoColor=black" alt="Flask"></a>
-<a href="#"><img src="https://img.shields.io/badge/sqlite-0078D4?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></a>
-
-
-##### 💪 Web Scraping
-<a href="#"><img alt="Beautifulsoup" src="https://img.shields.io/badge/beautifulsoup-3d85c6?style=for-the-badge&logo=beautifulsoup&logoColor=black"></a>
-<a href="#"><img alt="Requests" src="https://img.shields.io/badge/requests-3d85c6?style=for-the-badge&logo=requests&logoColor=black"></a>
-<a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-bcbcbc?style=for-the-badge&logo=Selenium&logoColor=black"></a>
-
-
-##### 💪 Collaboration
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
-<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <hr>
     
