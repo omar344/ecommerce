@@ -6,6 +6,6 @@
   
 <h1>Features:</h1>
 
-<h4>•Enabled seamless registration and login functionality for users.</h4>
-<h4>• Developed comprehensive dashboards catering to administrative functionalities.</h4>
-<h4>• Users can easily browse, shop, and purchase any product.</h4>
+<h4><h2>•</h2>  Enabled seamless registration and login functionality for users.</h4>
+<h4><h2>•</h2>  Developed comprehensive dashboards catering to administrative functionalities.</h4>
+<h4><h2>•</h2>  Users can easily browse, shop, and purchase any product.</h4>
