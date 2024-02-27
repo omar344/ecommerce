@@ -1,8 +1,6 @@
 
 <h1>Mobile Accessories E-commerce Website</h1>
 
-<p>Welcome to our Mobile Accessories E-commerce website! Here, we strive to provide you with a seamless and enjoyable shopping experience for all your mobile accessory needs. From protective cases to high-tech chargers and innovative gadgets, our curated selection is designed to enhance your mobile lifestyle.
-<p/>
   
 <h1>Features:</h1>
 
